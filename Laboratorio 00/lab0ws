@@ -1,0 +1,56 @@
+# Created by Octave 6.4.0, Thu Mar 24 13:32:47 2022 GMT <unknown@DESKTOP-FVIEHPO>
+# name: A
+# type: matrix
+# rows: 2
+# columns: 3
+ 1 3 5
+ 2 4 6
+
+
+# name: B
+# type: diagonal matrix
+# rows: 3
+# columns: 3
+1
+1
+1
+
+
+# name: a
+# type: scalar
+5
+
+
+# name: ans
+# type: matrix
+# rows: 10
+# columns: 3
+ 1 1 1
+ 1 1 1
+ 1 1 1
+ 1 1 1
+ 1 1 1
+ 1 1 1
+ 1 1 1
+ 1 1 1
+ 1 1 1
+ 1 1 1
+
+
+# name: b
+# type: scalar
+7
+
+
+# name: c
+# type: scalar
+9
+
+
+# name: d
+# type: matrix
+# rows: 1
+# columns: 3
+ 10 15 20
+
+
